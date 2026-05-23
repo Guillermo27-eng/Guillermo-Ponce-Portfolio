@@ -1,7 +1,8 @@
-# Guillermo Castaneda
+# Guillermo Castañeda
 
-USC Public Policy & Data Analytics Student  
-Progressive Master of Public Administration Candidate
+University of Southern California
+Bachelor of Science, Public Policy & Data Analytics
+Master of Public Administration Candidate (USC Progressive Degree Program)
 
 Research and policy portfolio exploring the intersection of public policy, data analytics, health policy, GIS mapping, urban resilience, and community-centered strategy through applied research, operational systems, and real-world projects.
 
