@@ -1,7 +1,7 @@
-# Guillermo Castañeda
+# Guillermo Castaneda
 
-USC Bachelor of Science, Public Policy & Data Analytics Student  
-Master of Public Administration Candidate
+USC Public Policy & Data Analytics Student  
+Progressive Master of Public Administration Candidate
 
 Research and policy portfolio exploring the intersection of public policy, data analytics, health policy, GIS mapping, urban resilience, and community-centered strategy through applied research, operational systems, and real-world projects.
 
@@ -33,12 +33,13 @@ Policy and GIS analysis evaluating climate resilience indicators for the Baldwin
 
 ---
 
-### Dementia Medicare Spending Analysis
-State-level Medicare spending analysis comparing dementia and non-dementia populations across eight states using Medicare claims data.
+### United States Cost of Dementia Research
+Contributed to nationally recognized health policy research examining state-level Medicare spending trends for dementia and non-dementia populations across the United States through the USC Schaeffer Center for Health Policy & Economics.
 
 **Skills & Tools**
 - Stata
 - Excel
+- Medicare Claims Analysis
 - Health Policy Research
 - Data Visualization
 - Quantitative Analysis
@@ -59,16 +60,17 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 ## Professional Experience
 
 ### Lee Andrews Group
-Strategic Communications Intern focused on operational systems, Airtable workflows, analytics reporting, and proposal coordination.
+Strategic Communications Intern focused on operational systems, Airtable workflows, analytics reporting, stakeholder coordination, and proposal development for public sector and infrastructure-related initiatives.
 
 ### USC Schaeffer Center for Health Policy & Economics
-Undergraduate Research Associate conducting state-level Medicare spending analysis and health policy research.
+Undergraduate Research Associate supporting nationally recognized dementia cost research through Medicare spending analysis, quantitative research methods, and policy-focused data visualization.
 
 ### USC Student Basic Needs Office
-Data Strategy Lead supporting operational audits, reporting systems, and resource allocation analysis.
+Data Strategy Lead supporting operational audits, reporting systems, resource allocation analysis, and student support service coordination.
 
 ### USC Public Exchange
-Project Analyst – GIS & Climate Resilience focused on ArcGIS mapping, climate resilience analysis, and urban equity research supporting sustainability and infrastructure planning initiatives.
+Project Analyst – GIS & Climate Resilience focused on ArcGIS mapping, climate resilience analysis, environmental equity research, and urban sustainability planning initiatives tied to resilience infrastructure and community investment.
+
 ---
 
 ## Connect With Me
