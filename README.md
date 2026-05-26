@@ -22,45 +22,80 @@ Research and policy portfolio exploring the intersection of public policy, data 
 
 ## Featured Projects
 
-### [Urban Resilience Index Analysis](research/urban-resilience-index)
+---
 
-Policy and GIS analysis evaluating climate resilience indicators for the Baldwin Hills & Urban Watersheds Conservancy.
+### Urban Resilience Index — Baldwin Hills & Urban Watersheds Conservancy
+**USC Public Exchange**
 
-**Skills & Tools**
-- ArcGIS Pro
-- Environmental Policy
-- Equity Analysis
-- Data Visualization
-- Research Writing
+> "The Conservancy had just expanded from 2 to 70 square miles and gained access to $700M in Prop 4 funding — but needed a better tool to know *where* to spend it."
+
+**What I did:**
+Evaluated the URI's five resilience categories (Community Empowerment, Water Management, Biodiversity, Extreme Heat & Fire, Park Access) by scoring each indicator on accessibility, transparency, and comprehensiveness. Cross-compared three external GIS tools — the Nature Conservancy's Resilient Land Mapping Tool, the Connecticut Environmental Justice Mapping Tool, and the Living Infrastructure Field Kit — to identify design and data gaps.
+
+**How I did it:**
+
+| Stage | Tool | Output |
+|---|---|---|
+| Spatial analysis | ArcGIS Pro | Scored high-vulnerability zones across 5 resilience categories |
+| Tool comparison | Structured rubric | Side-by-side evaluation of 3 GIS platforms |
+| Reporting | Excel dashboards | Funding utilization reports for municipal and nonprofit partners |
+
+**What changed:**
+Delivered four categories of recommendations — data improvements, interface enhancements, user accessibility, and future development — to inform how the URI guides $700M in climate investment across South LA.
+
+`ArcGIS Pro` `GIS Analysis` `Climate Equity` `Urban Resilience` `Land-Use Planning` `Policy Writing`
 
 ---
 
-### [United States Cost of Dementia Research](research/dementia-medicare-analysis)
+### Not All Dementia Care is Equal — USC Schaeffer Center for Health Policy & Economics
+**Undergraduate Research Associate**
 
-Contributed to nationally recognized health policy research examining state-level Medicare spending trends for dementia and non-dementia populations across the United States through the USC Schaeffer Center for Health Policy & Economics.
+> "Medicare spends roughly $10,000 more per year on patients with dementia than comparable patients without — but that gap looks completely different depending on which state you're in."
 
-**Skills & Tools**
-- Stata
-- Excel
-- Medicare Claims Analysis
-- Health Policy Research
-- Data Visualization
-- Quantitative Analysis
+**What I did:**
+Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8 states and 9 service categories to compare per-capita spending patterns between patients with and without dementia. States were selected to represent demographic and policy diversity — from high-spending progressive states (CA, NY, IL) to rural, resource-constrained ones (MS, GA).
+
+**How I did it:**
+
+| Stage | Tool | Output |
+|---|---|---|
+| Data cleaning | Stata | Structured Medicare claims across 8 states, controlled for age, sex, race |
+| Analysis | Stata + Excel pivot tables | Per-capita spending by state, year, and dementia status |
+| Visualization | Stacked bar charts | State-level spending trends, 2011 vs 2021 |
+| Presentation | Research poster + slides | Presented findings to 30+ Schaeffer Center associates |
+
+**Key findings:**
+- Mississippi's dementia spending gap narrowed from ~$11K to ~$4.5K; New York's widened to ~$11K by 2021
+- Inpatient and SNF costs dominated in both years, but Carrier and Part D spending grew across most states by 2021
+- CA and NY spent 15–35% more on average, with some states approaching 50% differences
+
+`Stata` `Excel` `Medicare Claims Analysis` `Health Policy` `Data Visualization` `Quantitative Research`
 
 ---
 
-### [From Poverty to Gang Involvement](policy-analysis/gang-trauma-policy)
+### From Poverty to Gang Involvement — USC Suzanne Dworak-Peck School of Social Work
+**SOWK 350**
 
-Policy analysis examining systemic trauma, institutional distrust, and gang vulnerability in Los Angeles County.
+> "LA County child poverty rates reach 68% in some neighborhoods — and the path from poverty to gang affiliation runs through systemic trauma, not individual failure."
 
-**Skills & Tools**
-- Policy Analysis
-- Social Justice Research
-- Program Evaluation
-- Community-Based Research
+**What I did:**
+Led a policy analysis examining how historic structural inequalities (redlining, mass incarceration, disinvestment) create intergenerational trauma, institutional distrust, and ultimately gang vulnerability among LA County youth. Developed three-tiered policy recommendations — micro, mezzo, and macro — with a full cost-benefit analysis.
 
+**The argument:**
+Historic Structural Inequalities → Intergenerational Trauma → Institutional Distrust → Gang Vulnerability
 
----
+**Recommendations included:**
+
+| Level | Recommendation | Est. Cost |
+|---|---|---|
+| Micro | Trauma-informed family therapy in all LAHSA family shelters | Included in hub budget |
+| Mezzo | Family Resilience Hubs co-locating GRYD, DMH, YDD services | ~$800K per hub/year |
+| Macro | Countywide policy reform — multi-year contracts, cross-agency coordination | Policy-level |
+
+**Why it matters:**
+Diverting one youth from incarceration saves ~$300K/year. Higher school completion increases lifetime earnings by $630K–$900K. Trauma-informed care reduces ER and hospitalization use by 30–50%.
+
+`Policy Analysis` `Social Justice Research` `Cost-Benefit Analysis` `Community Violence Intervention` `Program Evaluation`
 
 ## Professional Experience
 
