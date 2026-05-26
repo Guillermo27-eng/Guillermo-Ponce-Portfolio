@@ -66,7 +66,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 
 ---
 
-### ### [Lee Andrews Group](professional-experience/lee-andrews-group)
+### [Lee Andrews Group](professional-experience/lee-andrews-group)
 **Strategic Communications Intern** 
 
 > "A public affairs firm managing 50+ RFP proposals across multiple LA County clients had no centralized system — work lived in emails, scattered docs, and individual memory."
