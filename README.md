@@ -64,30 +64,81 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 
 ## Professional Experience
 
-### [Lee Andrews Group](professional-experience/lee-andrews-group)
+---
 
-Strategic Communications Intern supporting public sector, infrastructure, and community engagement initiatives across Los Angeles County through operational systems development, stakeholder coordination, proposal support, and analytics reporting.
+### Lee Andrews Group
+**Strategic Communications Intern** · Jan 2025–Present
 
-Contributed to workflow automation and project management systems using Airtable while supporting communications, research, and organizational strategy across multiple client initiatives.
+> "A public affairs firm managing 50+ RFP proposals across multiple LA County clients had no centralized system — work lived in emails, scattered docs, and individual memory."
 
-**Skills & Tools**
-- Airtable
-- Strategic Communications
-- Operational Systems Design
-- Proposal Development
-- Workflow Automation
-- Stakeholder Coordination
-- Analytics Reporting
-- Data Management
+**Organize → Produce → Report**
+
+| Stage | Tool | What it did |
+|---|---|---|
+| Organize | Airtable | Built a centralized project tracker to standardize workflows and eliminate information silos across client work |
+| Produce | Google Gemini | Streamlined coordination and drafting across 50+ client RFP proposals |
+| Report | Google Analytics | Translated LA Metro program performance into weekly analytics reports for Metro Joint Development and CVI programs |
+
+**Result:** 90% improvement in operational efficiency through automated tracking and real-time data visibility across client portfolios.
+
+`Airtable` `Google Analytics` `Workflow Automation` `Stakeholder Coordination`
+
+---
 
 ### USC Schaeffer Center for Health Policy & Economics
-Undergraduate Research Associate supporting nationally recognized dementia cost research through Medicare spending analysis, quantitative research methods, and policy-focused data visualization.
+**Undergraduate Research Associate** · Aug 2025–Present
+
+> "What does Medicare actually spend on dementia patients — and how does it differ by state and service type? The data existed but needed to be structured, cleaned, and visualized before it could answer anything."
+
+**Clean → Analyze → Present**
+
+| Stage | Tool | What it did |
+|---|---|---|
+| Clean | Stata | Cleaned and structured Medicare claims across 8 states and 9 service categories (2011–2021) |
+| Analyze | Excel pivot tables | Built per-capita spending comparisons between dementia and non-dementia cost patterns by state |
+| Present | Stacked bar charts + research poster | Surfaced state-level trends for 30+ Schaeffer Center associates |
+
+**Result:** Findings contributed to nationally recognized dementia cost research; presented at the USC Schaeffer Center.
+
+`Stata` `Excel` `Data Visualization` `Medicare Claims Analysis`
+
+---
 
 ### USC Student Basic Needs Office
-Data Strategy Lead supporting operational audits, reporting systems, resource allocation analysis, and student support service coordination.
+**Data Strategy Lead** · Dec 2024–Present
+
+> "Five student service programs were tracking utilization differently — or not at all. Leadership had no consistent view into what was being used, what was running low, or where to redirect resources."
+
+**Diagnose → Standardize → Report**
+
+| Stage | Tool | What it did |
+|---|---|---|
+| Diagnose | Operational audit | Pulled weekly purchase receipts across food pantry stations to map spending trends and inventory gaps |
+| Standardize | Excel dashboard | Built a tracking system to standardize weekly data collection across 5+ programs |
+| Report | Utilization reports | Delivered transparent, recurring reports to senior leadership to guide capital allocation |
+
+**Result:** Closed a critical reporting gap across 5+ programs; realigned spending to match actual student demand.
+
+`Excel` `Operational Audit` `Resource Allocation` `Reporting Systems`
+
+---
 
 ### USC Public Exchange
-Project Analyst – GIS & Climate Resilience focused on ArcGIS mapping, climate resilience analysis, environmental equity research, and urban sustainability planning initiatives tied to resilience infrastructure and community investment.
+**Project Analyst, GIS & Climate Resilience** · Jan–May 2025
+
+> "$700M in Prop 4 climate funding was coming to California — but without a way to systematically evaluate where it was most needed, land-use decisions risked missing the highest-vulnerability communities."
+
+**Map → Evaluate → Deliver**
+
+| Stage | Tool | What it did |
+|---|---|---|
+| Map | ArcGIS Pro | Layered datasets across 5 resilience categories — accessibility, transparency, comprehensiveness — to score high-vulnerability zones |
+| Evaluate | Scoring rubric | Cross-compared 3 GIS tools side-by-side across climate, equity, and biodiversity indicators |
+| Deliver | Excel dashboards | Synthesized ArcGIS outputs into funding utilization reports for municipal and nonprofit partners |
+
+**Result:** Recommendations informed infrastructure planning and interface improvements to the Urban Resilience Index tied to $700M in Prop 4 funding.
+
+`ArcGIS Pro` `Excel` `Climate Equity` `Land-Use Planning` 
 
 ---
 
