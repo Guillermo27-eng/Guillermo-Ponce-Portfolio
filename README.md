@@ -24,7 +24,7 @@ Research and policy portfolio exploring the intersection of public policy, data 
 
 ---
 
-### Urban Resilience Index — Baldwin Hills & Urban Watersheds Conservancy
+[Urban Resilience Index — Baldwin Hills & Urban Watersheds Conservancy](research/urban-resilience-index)
 **USC Public Exchange**
 
 > "The Conservancy had just expanded from 2 to 70 square miles and gained access to $700M in Prop 4 funding — but needed a better tool to know *where* to spend it."
@@ -47,7 +47,7 @@ Delivered four categories of recommendations — data improvements, interface en
 
 ---
 
-### Not All Dementia Care is Equal — USC Schaeffer Center for Health Policy & Economics
+[Not All Dementia Care Is Equal — USC Schaeffer Center for Health Policy & Economics](research/dementia-medicare-analysis)
 **Undergraduate Research Associate**
 
 > "Medicare spends roughly $10,000 more per year on patients with dementia than comparable patients without — but that gap looks completely different depending on which state you're in."
@@ -73,7 +73,7 @@ Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8
 
 ---
 
-### From Poverty to Gang Involvement — USC Suzanne Dworak-Peck School of Social Work
+[From Poverty to Gang Involvement — USC Suzanne Dworak-Peck School of Social Work](policy-analysis/gang-trauma-policy)
 **SOWK 350**
 
 > "LA County child poverty rates reach 68% in some neighborhoods — and the path from poverty to gang affiliation runs through systemic trauma, not individual failure."
