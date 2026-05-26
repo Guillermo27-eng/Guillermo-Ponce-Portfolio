@@ -10,7 +10,7 @@ from the people living them, they need more presence.
 
 That's the lens I'm building my career through. I'm simultaneously pursuing 
 my Bachelor of Science in Public Policy & Data Analytics and my Master of 
-Public Administration at USC — learning to work at the intersection of data 
+Public Administration at USC, learning to work at the intersection of data 
 and community while doing the work in real time.
 
 I've built GIS frameworks that informed climate investment decisions for 
@@ -44,10 +44,10 @@ that policy too often treats as an afterthought.
 [Urban Resilience Index — Baldwin Hills & Urban Watersheds Conservancy](research/urban-resilience-index)
 **USC Public Exchange**
 
-> "The Conservancy had just expanded from 2 to 70 square miles and gained access to $700M in Prop 4 funding — but needed a better tool to know *where* to spend it."
+> "The Conservancy had just expanded from 2 to 70 square miles and gained access to $700M in Prop 4 funding, but needed a better tool to know *where* to spend it."
 
 **What I did:**
-Evaluated the URI's five resilience categories (Community Empowerment, Water Management, Biodiversity, Extreme Heat & Fire, Park Access) by scoring each indicator on accessibility, transparency, and comprehensiveness. Cross-compared three external GIS tools — the Nature Conservancy's Resilient Land Mapping Tool, the Connecticut Environmental Justice Mapping Tool, and the Living Infrastructure Field Kit — to identify design and data gaps.
+Evaluated the URI's five resilience categories (Community Empowerment, Water Management, Biodiversity, Extreme Heat & Fire, Park Access) by scoring each indicator on accessibility, transparency, and comprehensiveness. Cross-compared three external GIS tools, the Nature Conservancy's Resilient Land Mapping Tool, the Connecticut Environmental Justice Mapping Tool, and the Living Infrastructure Field Kit, to identify design and data gaps.
 
 **How I did it:**
 
@@ -58,7 +58,7 @@ Evaluated the URI's five resilience categories (Community Empowerment, Water Man
 | Reporting | Excel dashboards | Funding utilization reports for municipal and nonprofit partners |
 
 **What changed:**
-Delivered four categories of recommendations — data improvements, interface enhancements, user accessibility, and future development — to inform how the URI guides $700M in climate investment across South LA.
+Delivered four categories of recommendations, data improvements, interface enhancements, user accessibility, and future development — to inform how the URI guides $700M in climate investment across South LA.
 
 `ArcGIS Pro` `GIS Analysis` `Climate Equity` `Urban Resilience` `Land-Use Planning` `Policy Writing`
 
@@ -70,7 +70,7 @@ Delivered four categories of recommendations — data improvements, interface en
 > "Medicare spends roughly $10,000 more per year on patients with dementia than comparable patients without — but that gap looks completely different depending on which state you're in."
 
 **What I did:**
-Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8 states and 9 service categories to compare per-capita spending patterns between patients with and without dementia. States were selected to represent demographic and policy diversity — from high-spending progressive states (CA, NY, IL) to rural, resource-constrained ones (MS, GA).
+Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8 states and 9 service categories to compare per-capita spending patterns between patients with and without dementia. States were selected to represent demographic and policy diversity, from high-spending progressive states (CA, NY, IL) to rural, resource-constrained ones (MS, GA).
 
 **How I did it:**
 
@@ -96,7 +96,7 @@ Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8
 > "LA County child poverty rates reach 68% in some neighborhoods — and the path from poverty to gang affiliation runs through systemic trauma, not individual failure."
 
 **What I did:**
-Led a policy analysis examining how historic structural inequalities (redlining, mass incarceration, disinvestment) create intergenerational trauma, institutional distrust, and ultimately gang vulnerability among LA County youth. Developed three-tiered policy recommendations — micro, mezzo, and macro — with a full cost-benefit analysis.
+Led a policy analysis examining how historic structural inequalities (redlining, mass incarceration, disinvestment) create intergenerational trauma, institutional distrust, and ultimately gang vulnerability among LA County youth. Developed three-tiered policy recommendations - micro, mezzo, and macro — with a full cost-benefit analysis.
 
 **The argument:**
 Historic Structural Inequalities → Intergenerational Trauma → Institutional Distrust → Gang Vulnerability
@@ -140,7 +140,7 @@ Diverting one youth from incarceration saves ~$300K/year. Higher school completi
 ### USC Schaeffer Center for Health Policy & Economics
 **Undergraduate Research Associate** 
 
-> "What does Medicare actually spend on dementia patients — and how does it differ by state and service type? The data existed but needed to be structured, cleaned, and visualized before it could answer anything."
+> "What does Medicare actually spend on dementia patients, and how does it differ by state and service type? The data existed but needed to be structured, cleaned, and visualized before it could answer anything."
 
 **Clean → Analyze → Present**
 
@@ -159,7 +159,7 @@ Diverting one youth from incarceration saves ~$300K/year. Higher school completi
 ### USC Student Basic Needs Office
 **Data Strategy Lead** 
 
-> "Five student service programs were tracking utilization differently — or not at all. Leadership had no consistent view into what was being used, what was running low, or where to redirect resources."
+> "Five student service programs were tracking utilization differently, or not at all. Leadership had no consistent view into what was being used, what was running low, or where to redirect resources."
 
 **Diagnose → Standardize → Report**
 
