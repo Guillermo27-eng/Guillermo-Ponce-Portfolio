@@ -64,7 +64,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 
 ## Professional Experience
 
-### Lee Andrews Group
+### [Lee Andrews Group](professional-experience/lee-andrews-group)
 
 Strategic Communications Intern supporting public sector, infrastructure, and community engagement initiatives across Los Angeles County through operational systems development, stakeholder coordination, proposal support, and analytics reporting.
 
