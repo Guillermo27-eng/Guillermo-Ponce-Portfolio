@@ -1,10 +1,28 @@
-# Guillermo Castañeda
 
-University of Southern California
-Bachelor of Science, Public Policy & Data Analytics
-Master of Public Administration Candidate (USC Progressive Degree Program)
+Father Greg Boyle says the goal is to stand on the wrong side of every 
+statistic. I grew up in Boyle Heights and South Central, communities that 
+have been studied, mapped, and analyzed by people who never lived in them. 
+That line changed how I saw my future.
 
-Research and policy portfolio exploring the intersection of public policy, data analytics, health policy, GIS mapping, urban resilience, and community-centered strategy through applied research, operational systems, and real-world projects.
+The Jesuits call it cura personalis. Care for the whole person. Proximity 
+over distance. The belief that the hardest problems don't need more distance 
+from the people living them, they need more presence.
+
+That's the lens I'm building my career through. I'm simultaneously pursuing 
+my Bachelor of Science in Public Policy & Data Analytics and my Master of 
+Public Administration at USC — learning to work at the intersection of data 
+and community while doing the work in real time.
+
+I've built GIS frameworks that informed climate investment decisions for 
+South LA. I've modeled health policy data at the USC Schaeffer Center. And 
+I shape communications strategy and analytics for some of the most visible 
+public agencies in Los Angeles.
+
+I'm still early. But I move between data and people, running the analysis 
+and learning how to walk into the room and make it land.
+
+Bilingual. First-generation. Building a career that serves the communities 
+that policy too often treats as an afterthought.
 
 ---
 
@@ -15,7 +33,6 @@ Research and policy portfolio exploring the intersection of public policy, data 
 - Health Policy
 - Urban Resilience
 - GIS Mapping
-- Community Development
 - Strategic Communications
 
 ---
