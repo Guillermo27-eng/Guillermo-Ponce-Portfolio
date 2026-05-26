@@ -1,28 +1,31 @@
 
-Father Greg Boyle says the goal is to stand on the wrong side of every 
-statistic. I grew up in Boyle Heights and South Central, communities that 
-have been studied, mapped, and analyzed by people who never lived in them. 
-That line changed how I saw my future.
+I grew up in Boyle Heights and South Central, communities that have been 
+studied, mapped, and analyzed by people who never lived in them. I watched 
+that distance shape the decisions that shaped my neighborhood. And I knew 
+early that I wanted to be on the other side of it.
 
-The Jesuits call it cura personalis. Care for the whole person. Proximity 
-over distance. The belief that the hardest problems don't need more distance 
-from the people living them, they need more presence.
+Father Greg Boyle put words to it. He says the goal is to stand on the 
+wrong side of every statistic. The Jesuits call it cura personalis — care 
+for the whole person. Proximity over distance. The belief that the hardest 
+problems don't need more analysis from afar. They need more presence.
 
-That's the lens I'm building my career through. I'm simultaneously pursuing 
-my Bachelor of Science in Public Policy & Data Analytics and my Master of 
-Public Administration at USC, learning to work at the intersection of data 
-and community while doing the work in real time.
+So that's the direction I pointed myself.
 
-I've built GIS frameworks that informed climate investment decisions for 
-South LA. I've modeled health policy data at the USC Schaeffer Center. And 
-I shape communications strategy and analytics for some of the most visible 
-public agencies in Los Angeles.
+I'm now simultaneously pursuing my Bachelor of Science in Public Policy & 
+Data Analytics and my Master of Public Administration at USC — doing both 
+degrees at the same time, in real time, learning to work at the intersection 
+of data and community while actually doing the work.
 
-I'm still early. But I move between data and people, running the analysis 
-and learning how to walk into the room and make it land.
+That's meant building GIS frameworks that informed $700M in climate 
+investment decisions for South LA. Modeling a decade of Medicare cost 
+patterns at the USC Schaeffer Center. Shaping communications strategy and 
+analytics for some of the most visible public agencies in Los Angeles.
 
-Bilingual. First-generation. Building a career that serves the communities 
-that policy too often treats as an afterthought.
+I'm still early in this. But I've learned that the work lives in two places 
+at once, in the data and in the room. I'm building the ability to move 
+between both.
+
+Bilingual. First-generation. From the communities I'm working to serve.
 
 ---
 
