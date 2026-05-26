@@ -22,7 +22,8 @@ Research and policy portfolio exploring the intersection of public policy, data 
 
 ## Featured Projects
 
-### Urban Resilience Index Analysis
+### [Urban Resilience Index Analysis](research/urban-resilience-index)
+
 Policy and GIS analysis evaluating climate resilience indicators for the Baldwin Hills & Urban Watersheds Conservancy.
 
 **Skills & Tools**
@@ -34,7 +35,8 @@ Policy and GIS analysis evaluating climate resilience indicators for the Baldwin
 
 ---
 
-### United States Cost of Dementia Research
+### [United States Cost of Dementia Research](research/dementia-medicare-analysis)
+
 Contributed to nationally recognized health policy research examining state-level Medicare spending trends for dementia and non-dementia populations across the United States through the USC Schaeffer Center for Health Policy & Economics.
 
 **Skills & Tools**
@@ -47,7 +49,8 @@ Contributed to nationally recognized health policy research examining state-leve
 
 ---
 
-### From Poverty to Gang Involvement
+### [From Poverty to Gang Involvement](policy-analysis/gang-trauma-policy)
+
 Policy analysis examining systemic trauma, institutional distrust, and gang vulnerability in Los Angeles County.
 
 **Skills & Tools**
@@ -55,6 +58,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 - Social Justice Research
 - Program Evaluation
 - Community-Based Research
+```
 
 ---
 
