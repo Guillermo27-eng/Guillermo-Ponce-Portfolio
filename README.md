@@ -66,8 +66,8 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 
 ---
 
-### Lee Andrews Group
-**Strategic Communications Intern** · Jan 2025–Present
+### ### [Lee Andrews Group](professional-experience/lee-andrews-group)
+**Strategic Communications Intern** 
 
 > "A public affairs firm managing 50+ RFP proposals across multiple LA County clients had no centralized system — work lived in emails, scattered docs, and individual memory."
 
@@ -86,7 +86,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 ---
 
 ### USC Schaeffer Center for Health Policy & Economics
-**Undergraduate Research Associate** · Aug 2025–Present
+**Undergraduate Research Associate** 
 
 > "What does Medicare actually spend on dementia patients — and how does it differ by state and service type? The data existed but needed to be structured, cleaned, and visualized before it could answer anything."
 
@@ -105,7 +105,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 ---
 
 ### USC Student Basic Needs Office
-**Data Strategy Lead** · Dec 2024–Present
+**Data Strategy Lead** 
 
 > "Five student service programs were tracking utilization differently — or not at all. Leadership had no consistent view into what was being used, what was running low, or where to redirect resources."
 
@@ -124,7 +124,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 ---
 
 ### USC Public Exchange
-**Project Analyst, GIS & Climate Resilience** · Jan–May 2025
+**Project Analyst, GIS & Climate Resilience** 
 
 > "$700M in Prop 4 climate funding was coming to California — but without a way to systematically evaluate where it was most needed, land-use decisions risked missing the highest-vulnerability communities."
 
