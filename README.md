@@ -58,7 +58,7 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 - Social Justice Research
 - Program Evaluation
 - Community-Based Research
-```
+
 
 ---
 
