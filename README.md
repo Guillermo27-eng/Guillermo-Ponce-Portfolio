@@ -65,7 +65,20 @@ Policy analysis examining systemic trauma, institutional distrust, and gang vuln
 ## Professional Experience
 
 ### Lee Andrews Group
-Strategic Communications Intern focused on operational systems, Airtable workflows, analytics reporting, stakeholder coordination, and proposal development for public sector and infrastructure-related initiatives.
+
+Strategic Communications Intern supporting public sector, infrastructure, and community engagement initiatives across Los Angeles County through operational systems development, stakeholder coordination, proposal support, and analytics reporting.
+
+Contributed to workflow automation and project management systems using Airtable while supporting communications, research, and organizational strategy across multiple client initiatives.
+
+**Skills & Tools**
+- Airtable
+- Strategic Communications
+- Operational Systems Design
+- Proposal Development
+- Workflow Automation
+- Stakeholder Coordination
+- Analytics Reporting
+- Data Management
 
 ### USC Schaeffer Center for Health Policy & Economics
 Undergraduate Research Associate supporting nationally recognized dementia cost research through Medicare spending analysis, quantitative research methods, and policy-focused data visualization.
