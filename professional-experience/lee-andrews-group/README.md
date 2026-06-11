@@ -22,7 +22,6 @@ This work focused on improving organizational systems, stakeholder coordination,
 ## Key Contributions
 - Built Airtable-based project management and workflow systems for internal operations
 - Developed stakeholder tracking systems and reporting dashboards
-- Supported proposal coordination and operational strategy across multiple client initiatives
 - Assisted with infrastructure and transportation-related community engagement projects
 - Improved internal workflow organization through automation and centralized data management systems
 - Contributed to communications and reporting efforts tied to Metro and public sector initiatives
