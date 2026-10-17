@@ -31,6 +31,7 @@ I am still early in this. What I have learned is that the work lives in two plac
 | [Dementia Medicare Analysis](research/dementia-medicare-analysis) | USC Schaeffer Center | Compared a decade of Medicare spending on patients with and without dementia across 8 states | Stata, Excel |
 | [Poverty to Gang Involvement](policy-analysis/gang-trauma-policy) | USC Suzanne Dworak-Peck School of Social Work (SOWK 350) | Led a three-level policy analysis with cost-benefit estimates for LA County youth | Policy analysis, cost-benefit analysis |
 | [Lee Andrews Group](professional-experience/lee-andrews-group) | Strategic communications firm | Designed and built the LAG Project Hub, a firm-wide operations system in Airtable, then extended it with an RFP finder, outreach trackers and survey dashboards | Airtable, Google Analytics, Google Gemini, SerpAPI |
+| [Donor CRM for IACS](professional-experience/iacs-donor-crm) | USC Institute for Advanced Catholic Studies (freelance) | Designed and built an Airtable donor CRM with an 8-step engagement sequence and 16+ automations, then trained the team to run it | Airtable, workflow automation |
 
 ---
 
@@ -134,9 +135,15 @@ Five student service programs were tracking use differently, or not at all, so l
 Layered datasets across five resilience categories in ArcGIS Pro to score high-vulnerability zones, compared three GIS tools with a scoring rubric, and turned the results into Excel funding utilization reports for municipal and nonprofit partners. See the [full project](research/urban-resilience-index).
 
 ### USC Institute for Advanced Catholic Studies
-**Freelance Airtable Builder**
+**Freelance Nonprofit Technology Consultant** · June to August 2026 · [Full case study](professional-experience/iacs-donor-crm)
 
-Built an Airtable donor CRM with an eight-step donor engagement sequence and trained the staff to use it.
+The institute tracked donors informally, so follow-up depended on memory. I designed and built an Airtable donor CRM in two phases, with an 8-step donor engagement sequence, a longer cultivation track, and 16+ automations for reminders, routing, and email. I then trained the staff to run it and edit it themselves.
+
+**Result:** a staff-owned system that replaces ad hoc tracking with a repeatable donor engagement process.
+
+`Airtable` `Process Automation` `Nonprofit Technology` `Donor Engagement` `Staff Training`
+
+---
 
 ### LA Voice
 **Community Organizing Lead** · Aug 2022 to Jul 2024
