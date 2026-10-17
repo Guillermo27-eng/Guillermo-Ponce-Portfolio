@@ -9,15 +9,17 @@ Bilingual (English/Spanish). First-generation. USC Price School of Public Policy
 
 ## My story
 
-I grew up in Boyle Heights and South Central Los Angeles, communities that have been studied, mapped, and analyzed by people who never lived in them. I watched that distance shape the decisions that shaped my neighborhood, and I knew early that I wanted to be on the other side of it.
+I grew up in South Central Los Angeles, and for first through eighth grade I made the trip to Boyle Heights every day to attend Dolores Mission School. My mother was raising me and my siblings, and school and church were where I spent most of my childhood. It was there, at a young age, that I learned the Golden Rule: treat people the way you want to be treated.
 
-I attended Dolores Mission School and Church, where Father Greg Boyle's idea of radical kinship took hold. He says the goal is to stand on the wrong side of every statistic. The Jesuits call it *cura personalis*, care for the whole person. Both come down to proximity: the hardest problems need more presence, not more analysis from afar.
+Dolores Mission is a Jesuit parish, and its history explains a lot about how I think. In the 1980s it was one of the poorest parishes in Los Angeles, in a neighborhood with some of the worst gang violence in the city, and many of the families in the pews were refugees from El Salvador. The Jesuits took over the parish, and in 1986 a young priest named Father Greg Boyle became its pastor. At a time when the city's answer to gang violence was suppression and prison, he did something much simpler. He went to the people everyone else was running from, stayed, and started giving them jobs. In 1988 he and the parish began what became Homeboy Industries, which now trains and employs thousands of people each year.
 
-That belief shaped my path. I worked as the community organizing lead at LA Voice, leading engagement for the Home Is Sacred campaign on housing and tenant rights in East Los Angeles and Boyle Heights. At USC I am earning a Bachelor of Science in Public Policy & Data Analytics and a Master of Public Administration at the same time, so I can learn the intersection of data and community while doing the work.
+He calls it radical kinship: you do not fix people from a distance, you stand with them. The Jesuits have a name for the same idea, *cura personalis*, care for the whole person. I did not read either one in a book. I grew up inside it. Where I am from, we were on the wrong side of a lot of statistics, and the people who studied us rarely lived anywhere near us. Father Greg's answer was never to study us harder. It was to show up and stay.
 
-That work has meant building GIS frameworks that informed $700M in climate investment decisions for South LA, modeling a decade of Medicare spending at the USC Schaeffer Center, and shaping communications strategy and analytics for some of the most visible public agencies in Los Angeles.
+That is the thread through everything I have done since. I worked as the community organizing lead at LA Voice, leading engagement for the Home Is Sacred campaign on housing and tenant rights in East Los Angeles and Boyle Heights. I spent a year at East Los Angeles College, then transferred to USC, where I am earning a Bachelor of Science in Public Policy & Data Analytics and a Master of Public Administration at the same time. I wanted the data skills and the community work to grow together, not one after the other.
 
-I am still early in this. What I have learned is that the work lives in two places at once, in the data and in the room, and I am building the ability to move between both.
+So far that has meant building GIS frameworks that informed $700M in climate investment decisions for South LA, modeling a decade of Medicare spending at the USC Schaeffer Center, and building the systems behind communications work for some of the most visible public agencies in Los Angeles.
+
+I am still early in this. What I know is that the work lives in two places at once, in the data and in the room, and I am learning to move between both. I do it as a bilingual, first-generation son of South Central, and I intend to keep working for the neighborhoods that policy too often decides about without them.
 
 **Focus areas:** Public Policy · Data Analytics · Health Policy · Urban Resilience · GIS Mapping · Strategic Communications
 
