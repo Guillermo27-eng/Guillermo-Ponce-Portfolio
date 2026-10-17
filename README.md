@@ -33,7 +33,8 @@ I am still early in this. What I know is that the work lives in two places at on
 | [Dementia Medicare Analysis](research/dementia-medicare-analysis) | USC Schaeffer Center | Compared a decade of Medicare spending on patients with and without dementia across 8 states | Stata, Excel |
 | [Poverty to Gang Involvement](policy-analysis/gang-trauma-policy) | USC Suzanne Dworak-Peck School of Social Work (SOWK 350) | Led a three-level policy analysis with cost-benefit estimates for LA County youth | Policy analysis, cost-benefit analysis |
 | [Lee Andrews Group](professional-experience/lee-andrews-group) | Strategic communications firm | Designed and built the LAG Project Hub, a firm-wide operations system in Airtable, then extended it with an RFP finder, outreach trackers and survey dashboards | Airtable, Google Analytics, Google Gemini, SerpAPI |
-| [Donor CRM for IACS](professional-experience/iacs-donor-crm) | USC Institute for Advanced Catholic Studies (freelance) | Designed and built an Airtable donor CRM with an 8-step engagement sequence and 16+ automations, then trained the team to run it | Airtable, workflow automation |
+| [Donor CRM for IACS](professional-experience/iacs-donor-crm) | USC Institute for Advanced Catholic Studies (freelance) | Designed and built an AI-augmented Airtable donor CRM with an 8-step engagement sequence and 39 automated workflows, then trained the team to run it | Airtable, workflow automation |
+| [Student Basic Needs Office](professional-experience/student-basic-needs) | USC | Audited spending, built a dashboard that standardized weekly data across 5+ programs, and led student outreach | Excel, operational audits |
 
 ---
 
@@ -127,9 +128,15 @@ A public affairs firm managing 50+ client proposals across LA County kept its wo
 Cleaned and structured Medicare claims across 8 states and 9 service categories (2011 to 2021) in Stata, built per-capita spending comparisons in Excel, and presented the findings to 30+ Schaeffer Center associates. The work contributed to nationally recognized dementia cost research. See the [full project](research/dementia-medicare-analysis).
 
 ### USC Student Basic Needs Office
-**Data Strategy Lead**
+**Data Strategy Lead and Undergraduate Operations Assistant** · December 2024 to May 2026 · [Full case study](professional-experience/student-basic-needs)
 
-Five student service programs were tracking use differently, or not at all, so leadership could not see what was being used or where to move resources. I audited weekly food pantry purchase receipts, built an Excel dashboard to standardize weekly data across 5+ programs, and delivered recurring reports to senior leadership. The reports closed the reporting gap and moved spending toward actual student demand.
+Five or more student service programs tracked their work differently, or not at all, so leadership could not see what was being used or where to move resources. Alongside my work in the pantry and Tommy's Closet, I audited weekly purchase receipts in Excel, built a dashboard that standardized weekly data across the programs, and delivered recurring reports to senior leadership. I paired that with outreach, gathering feedback from students and campus partners to shape how the programs were promoted.
+
+**Result:** the office saw a 59.3% increase in Trojan Food Pantry visits, a 117.2% increase in volunteer hours, and a 21.0% increase in Tommy's Closet visits over the 2025-26 academic year. These are office-wide results, with the reporting and outreach contributing alongside volunteers and other efforts.
+
+`Excel` `Operational Audit` `Resource Allocation` `Reporting Systems` `Student Engagement`
+
+---
 
 ### USC Public Exchange
 **Project Analyst, GIS & Climate Resilience**
@@ -139,7 +146,7 @@ Layered datasets across five resilience categories in ArcGIS Pro to score high-v
 ### USC Institute for Advanced Catholic Studies
 **Freelance Nonprofit Technology Consultant** · June to August 2026 · [Full case study](professional-experience/iacs-donor-crm)
 
-The institute tracked donors informally, so follow-up depended on memory. I designed and built an Airtable donor CRM in two phases, with an 8-step donor engagement sequence, a longer cultivation track, and 16+ automations for reminders, routing, and email. I then trained the staff to run it and edit it themselves.
+The institute tracked donors informally, so follow-up depended on memory. I audited a donor operation that ran on fragmented spreadsheets, then designed and built an Airtable donor CRM in two phases, with an 8-step donor engagement sequence, a longer cultivation track, 39 automated workflows for reminders, routing, and email, an AI layer that drafts personalized follow-ups, and a grants research pipeline. I then trained the staff to run it and edit it themselves.
 
 **Result:** a staff-owned system that replaces ad hoc tracking with a repeatable donor engagement process.
 
