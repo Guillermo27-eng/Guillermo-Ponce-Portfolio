@@ -30,7 +30,7 @@ I am still early in this. What I have learned is that the work lives in two plac
 | [Urban Resilience Index](research/urban-resilience-index) | USC Public Exchange, Baldwin Hills & Urban Watersheds Conservancy | Evaluated a GIS tool meant to guide $700M in Prop 4 climate funding across South LA | ArcGIS Pro, scoring rubric, Excel |
 | [Dementia Medicare Analysis](research/dementia-medicare-analysis) | USC Schaeffer Center | Compared a decade of Medicare spending on patients with and without dementia across 8 states | Stata, Excel |
 | [Poverty to Gang Involvement](policy-analysis/gang-trauma-policy) | USC Suzanne Dworak-Peck School of Social Work (SOWK 350) | Led a three-level policy analysis with cost-benefit estimates for LA County youth | Policy analysis, cost-benefit analysis |
-| [Lee Andrews Group](professional-experience/lee-andrews-group) | Strategic communications firm | Built a project tracker and analytics reporting for 50+ RFP proposals | Airtable, Google Gemini, Google Analytics |
+| [Lee Andrews Group](professional-experience/lee-andrews-group) | Strategic communications firm | Designed and built the LAG Project Hub, a firm-wide operations system in Airtable, then extended it with an RFP finder, outreach trackers and survey dashboards | Airtable, Google Analytics, Google Gemini, SerpAPI |
 
 ---
 
@@ -102,15 +102,21 @@ Historic structural inequalities → intergenerational trauma → institutional 
 ## Professional experience
 
 ### Lee Andrews Group
-**Strategic Communications Intern** · [Details](professional-experience/lee-andrews-group)
+**Strategic Communications Intern** · [Full case study](professional-experience/lee-andrews-group)
 
-A public affairs firm managing 50+ RFP proposals for LA County clients kept its work in emails, scattered documents, and individual memory. I built the system that replaced that.
+A public affairs firm managing 50+ client proposals across LA County kept its work in emails, scattered documents, and individual memory. Before building anything, I surveyed the whole firm about how work actually moved, and every person responded. The answers shaped what I built.
 
-- **Organize:** built a centralized Airtable project tracker to standardize workflows across client work.
-- **Produce:** used Google Gemini to speed up coordination and drafting across 50+ RFP proposals.
-- **Report:** turned LA Metro program performance into weekly Google Analytics reports for Metro Joint Development and CVI programs.
+- **The LAG Project Hub (Airtable):** a firm-wide operating system that tracks projects, tasks, meetings and notes, and the staff directory, with intake forms, role-based views for project managers and individual staff, and automated email notifications when work is assigned and when it is finished. I presented it to the whole firm, ran a live demo, and wrote the plan for the next phase: project managers owning task status, event staffing moved into Airtable, and training sessions to drive adoption.
+- **An automated RFP finder:** three scheduled runs a day search Southern California procurement sources, flag opportunities that match the firm's service lines and priority agencies, and log them in Airtable for the business development team.
+- **Performance analytics:** a reporting system that compares billable hours from timesheets against individual billable goals, to help decide who should take on more project work without going over a client's monthly budget.
+- **Client work in Airtable:** outreach trackers, survey dashboards and a stakeholder tracking base for community engagement projects, including the Mercy Housing Marina del Rey project and a DaVita health screening outreach effort with a 167-location database.
+- **Reporting:** weekly Google Analytics reports that turned LA Metro program performance into insight for Metro Joint Development and Community Violence Intervention programs.
 
-**Result:** 90% improvement in operational efficiency through automated tracking and real-time visibility across client portfolios.
+**Result:** about a 90% improvement in operational efficiency by cutting back-and-forth communication and giving leadership a live view of client work.
+
+`Airtable` `Workflow Automation` `Survey Design` `Google Analytics` `Stakeholder Coordination` `Stakeholder Engagement`
+
+---
 
 ### USC Schaeffer Center for Health Policy & Economics
 **Undergraduate Research Associate**
@@ -127,6 +133,11 @@ Five student service programs were tracking use differently, or not at all, so l
 
 Layered datasets across five resilience categories in ArcGIS Pro to score high-vulnerability zones, compared three GIS tools with a scoring rubric, and turned the results into Excel funding utilization reports for municipal and nonprofit partners. See the [full project](research/urban-resilience-index).
 
+### USC Institute for Advanced Catholic Studies
+**Freelance Airtable Builder**
+
+Built an Airtable donor CRM with an eight-step donor engagement sequence and trained the staff to use it.
+
 ### LA Voice
 **Community Organizing Lead** · Aug 2022 to Jul 2024
 
@@ -136,15 +147,15 @@ Led community engagement for the Home Is Sacred campaign on housing and tenant r
 
 ## Leadership
 
-- **Advanced Degree Consulting Club (USC):** incoming Vice President.
+- **Advanced Degree Consulting Club (USC):** Vice President.
 
 ---
 
 ## Skills
 
-**Analysis and GIS:** Stata · ArcGIS Pro · Excel (pivot tables, dashboards) · cost-benefit analysis · program evaluation
-**Workflow and reporting:** Airtable · Google Analytics · Google Gemini
-**Policy and communications:** policy writing · stakeholder coordination · community engagement
+**Data and GIS:** Stata · Python · R · ArcGIS Pro and ArcGIS Online · Excel · Tableau · Power BI · Qualtrics
+**Systems and automation:** Airtable (databases, forms, interfaces, automations) · Google Sheets · API integration · JavaScript · Salesforce
+**Communications and design:** Constant Contact · Canva · InDesign · Google Analytics · policy writing · stakeholder coordination · community engagement
 
 ---
 
