@@ -109,8 +109,8 @@ A public affairs firm managing 50+ client proposals across LA County kept its wo
 - **The LAG Project Hub (Airtable):** a firm-wide operating system that tracks projects, tasks, meetings and notes, and the staff directory, with intake forms, role-based views for project managers and individual staff, and automated email notifications when work is assigned and when it is finished. I presented it to the whole firm, ran a live demo, and wrote the plan for the next phase: project managers owning task status, event staffing moved into Airtable, and training sessions to drive adoption.
 - **An automated RFP finder:** three scheduled runs a day search Southern California procurement sources, flag opportunities that match the firm's service lines and priority agencies, and log them in Airtable for the business development team.
 - **Performance analytics:** a reporting system that compares billable hours from timesheets against individual billable goals, to help decide who should take on more project work without going over a client's monthly budget.
-- **Client work in Airtable:** outreach trackers, survey dashboards and a stakeholder tracking base for community engagement projects, including the Mercy Housing Marina del Rey project and a DaVita health screening outreach effort with a 167-location database.
-- **Reporting:** weekly Google Analytics reports that turned LA Metro program performance into insight for Metro Joint Development and Community Violence Intervention programs.
+- **Client work in Airtable:** outreach trackers, survey dashboards and a stakeholder tracking base for community engagement projects, including an affordable housing outreach project and a community health screening outreach effort with a 167-location database.
+- **Reporting:** weekly Google Analytics reports that turned transit agency program performance into insight for real estate development and community violence intervention programs.
 
 **Result:** about a 90% improvement in operational efficiency by cutting back-and-forth communication and giving leadership a live view of client work.
 

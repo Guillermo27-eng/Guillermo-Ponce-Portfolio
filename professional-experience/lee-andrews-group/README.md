@@ -2,7 +2,7 @@
 
 *Strategic Communications Intern · Los Angeles, California*
 
-Lee Andrews Group (LAG) is a public affairs and strategic communications firm that supports infrastructure, transportation, housing, and community engagement work across Los Angeles County. Clients include LA Metro, AECOM, Mercy Housing, DaVita, and others.
+Lee Andrews Group (LAG) is a public affairs and strategic communications firm that supports infrastructure, transportation, housing, and community engagement work across Los Angeles County. Clients include transit agencies, engineering firms, affordable housing developers, healthcare providers, and local governments.
 
 ## The problem
 The firm was managing 50+ client proposals and projects with no central system. Work lived in emails, scattered documents, Teams chats, notepads, and individual memory. It was hard to know what had happened in a client meeting, who owned a task, or whether a team member had room for more work.
@@ -22,7 +22,7 @@ A firm-wide operating system that replaced the scattered process.
 | Automations | Email notifications when someone is assigned work and when they finish it, so there is no back-and-forth |
 | Interfaces | A Project Manager view and a My Tasks view, so each person sees what they need |
 
-At launch it tracked 7 active projects across clients including Metro, Hollywood Partnership, AECOM, the City of Menifee, and LA/OC Building Trades, with 25 team members in the directory.
+At launch it tracked 7 active projects across a transit agency, an engineering firm, a business improvement district, a city government, and a labor coalition, with 25 team members in the directory.
 
 I presented the Hub to the whole firm and ran a live demo. I also wrote the next-phase plan:
 - project managers take over task status updates to drive firm-wide use
@@ -36,11 +36,11 @@ Three scheduled automations a day (morning, midday, and evening) run a script th
 A reporting system that compares billable hours from timesheet reports against each person's billable goal. It helps decide who should take on more project work and how to use each client's monthly budget fully without going over.
 
 ## Client work in Airtable and beyond
-- **Mercy Housing, Marina del Rey:** maintain the project's Airtable base for stakeholder outreach, committee coordination, and survey tracking. Built survey dashboard pages, a flyer drop-off location table, a merged outreach calendar, and a projection model for survey response rates that used real field data.
-- **DaVita health screening outreach:** built an outreach database of 167 locations across 16 site categories for events in Watts, Pico Union, and Lincoln Heights, and planned routes and email outreach to community organizations and churches.
-- **LuskinOIC narrative refresh:** built a stakeholder survey form in Airtable for three groups (leadership, board members, and clinicians) to inform mission messaging and donor communications.
-- **LA Metro:** weekly Google Analytics reports that turned program performance into insight for Metro Joint Development and Community Violence Intervention programs, plus community engagement tracking and event outreach.
-- **Missing Middle LA:** bilingual (Spanish) outreach materials and Constant Contact campaigns for working group and community meetings.
+- **Affordable housing outreach project:** maintain the project's Airtable base for stakeholder outreach, committee coordination, and survey tracking. Built survey dashboard pages, a flyer drop-off location table, a merged outreach calendar, and a projection model for survey response rates that used real field data.
+- **Community health screening outreach:** built an outreach database of 167 locations across 16 site categories for events in three Los Angeles neighborhoods, and planned routes and email outreach to community organizations and churches.
+- **Pediatric health nonprofit narrative refresh:** built a stakeholder survey form in Airtable for three groups (leadership, board members, and clinicians) to inform mission messaging and donor communications.
+- **Transit agency programs:** weekly Google Analytics reports that turned program performance into insight for real estate development and community violence intervention programs, plus community engagement tracking and event outreach.
+- **Housing policy outreach:** bilingual (Spanish) outreach materials and email campaigns for working group and community meetings.
 
 ## Result
 About a 90% improvement in operational efficiency by cutting back-and-forth communication and giving leadership a live view of client work for the first time.
