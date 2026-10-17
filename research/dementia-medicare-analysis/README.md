@@ -1,36 +1,33 @@
-# United States Cost of Dementia Research
+# Not All Dementia Care Is Equal
 
-Health policy and quantitative research project conducted through the USC Schaeffer Center for Health Policy & Economics examining Medicare spending patterns for dementia and non-dementia populations across the United States.
+*USC Schaeffer Center for Health Policy & Economics · Undergraduate Research Associate*
 
-This work contributed to the nationally recognized United States Cost of Dementia research initiative and focused on analyzing per-capita Medicare Fee-for-Service spending trends across multiple healthcare service categories between 2011 and 2021.
+## The question
+Medicare spends roughly $10,000 more per year on patients with dementia than on comparable patients without. That gap looks very different from one state to the next. What explains the difference, and where does the money go?
 
-## Focus Areas
-- Health Policy
-- Medicare Spending Analysis
-- Dementia Research
-- Quantitative Research
-- Public Administration
-- Aging & Healthcare Policy
+## What I did
+I worked on the Schaeffer Center's United States Cost of Dementia research. I cleaned and structured Medicare Fee-for-Service claims from 2011 to 2021 across 8 states and 9 service categories, then compared per-capita spending for patients with and without dementia. The states were chosen to cover demographic and policy range, from high-spending states (California, New York, Illinois) to rural, resource-constrained ones (Mississippi, Georgia).
 
-## Tools Used
-- Stata
-- Excel
-- Pivot Tables
-- Data Visualization
-- Medicare Claims Analysis
-- Research Presentation Design
+| Stage | Tool | Output |
+|---|---|---|
+| Clean | Stata | Structured claims for 8 states, controlled for age, sex, and race |
+| Analyze | Stata, Excel pivot tables | Per-capita spending by state, year, and dementia status |
+| Visualize | Stacked bar charts | State-level trends, 2011 vs. 2021 |
+| Present | Research poster and slides | Findings shared with 30+ Schaeffer Center associates |
 
-## Key Contributions
-- Cleaned and structured Medicare claims datasets across eight U.S. states
-- Conducted per-capita spending analysis comparing dementia and non-dementia populations
-- Analyzed spending trends across multiple healthcare service categories including inpatient, outpatient, hospice, home health, and skilled nursing services
-- Built comparative charts and visualizations to communicate state-level spending patterns
-- Presented findings through academic research presentations and poster sessions at the USC Schaeffer Center
+## Key findings
+- Mississippi's dementia spending gap narrowed from about $11K to $4.5K, while New York's widened to about $11K by 2021.
+- Inpatient and skilled nursing costs dominated in both years. Carrier and Part D spending grew across most states by 2021.
+- California and New York spent 15 to 35% more on average, and some states differed by nearly 50%.
 
-## Files Included
-- Research Poster Presentation
-- Research Slide Presentation
+## Tools
+Stata · Excel · pivot tables · data visualization · Medicare claims analysis
 
-## Institutional Affiliation
-USC Schaeffer Center for Health Policy & Economics  
-University of Southern California
+## Focus areas
+Health policy · Medicare spending · dementia research · aging and healthcare policy
+
+## Files in this folder
+- Research poster (PDF)
+- Research presentation (PDF)
+
+[Back to the portfolio](../../README.md)

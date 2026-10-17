@@ -1,58 +1,47 @@
+# Guillermo Mauricio Castañeda-Ponce
 
-I grew up in Boyle Heights and South Central, communities that have been 
-studied, mapped, and analyzed by people who never lived in them. I watched 
-that distance shape the decisions that shaped my neighborhood. And I knew 
-early that I wanted to be on the other side of it.
+**Public policy and data analytics, built from the neighborhoods I'm trying to serve.**
+Bilingual (English/Spanish). First-generation. USC Price School of Public Policy, B.S. Public Policy & Data Analytics (Spring 2027) and Master of Public Administration (Fall 2027), earned together through the Progressive Degree Program.
 
-Father Greg Boyle put words to it. He says the goal is to stand on the 
-wrong side of every statistic. The Jesuits call it cura personalis — care 
-for the whole person. Proximity over distance. The belief that the hardest 
-problems don't need more analysis from afar. They need more presence.
-
-So that's the direction I pointed myself.
-
-I'm now simultaneously pursuing my Bachelor of Science in Public Policy & 
-Data Analytics and my Master of Public Administration at USC — doing both 
-degrees at the same time, in real time, learning to work at the intersection 
-of data and community while actually doing the work.
-
-That's meant building GIS frameworks that informed $700M in climate 
-investment decisions for South LA. Modeling a decade of Medicare cost 
-patterns at the USC Schaeffer Center. Shaping communications strategy and 
-analytics for some of the most visible public agencies in Los Angeles.
-
-I'm still early in this. But I've learned that the work lives in two places 
-at once, in the data and in the room. I'm building the ability to move 
-between both.
-
-Bilingual. First-generation. From the communities I'm working to serve.
+[LinkedIn](https://www.linkedin.com/in/guillermo-casta%C3%B1eda-00690b2b0) · [gmc70251@usc.edu](mailto:gmc70251@usc.edu) · Los Angeles, CA
 
 ---
 
-## Areas of Interest
+## My story
 
-- Public Policy
-- Data Analytics
-- Health Policy
-- Urban Resilience
-- GIS Mapping
-- Strategic Communications
+I grew up in Boyle Heights and South Central Los Angeles, communities that have been studied, mapped, and analyzed by people who never lived in them. I watched that distance shape the decisions that shaped my neighborhood, and I knew early that I wanted to be on the other side of it.
+
+I attended Dolores Mission School and Church, where Father Greg Boyle's idea of radical kinship took hold. He says the goal is to stand on the wrong side of every statistic. The Jesuits call it *cura personalis*, care for the whole person. Both come down to proximity: the hardest problems need more presence, not more analysis from afar.
+
+That belief shaped my path. I worked as the community organizing lead at LA Voice, leading engagement for the Home Is Sacred campaign on housing and tenant rights in East Los Angeles and Boyle Heights. At USC I am earning a Bachelor of Science in Public Policy & Data Analytics and a Master of Public Administration at the same time, so I can learn the intersection of data and community while doing the work.
+
+That work has meant building GIS frameworks that informed $700M in climate investment decisions for South LA, modeling a decade of Medicare spending at the USC Schaeffer Center, and shaping communications strategy and analytics for some of the most visible public agencies in Los Angeles.
+
+I am still early in this. What I have learned is that the work lives in two places at once, in the data and in the room, and I am building the ability to move between both.
+
+**Focus areas:** Public Policy · Data Analytics · Health Policy · Urban Resilience · GIS Mapping · Strategic Communications
 
 ---
 
-## Featured Projects
+## Work at a glance
+
+| Project | Setting | What I did | Tools |
+|---|---|---|---|
+| [Urban Resilience Index](research/urban-resilience-index) | USC Public Exchange, Baldwin Hills & Urban Watersheds Conservancy | Evaluated a GIS tool meant to guide $700M in Prop 4 climate funding across South LA | ArcGIS Pro, scoring rubric, Excel |
+| [Dementia Medicare Analysis](research/dementia-medicare-analysis) | USC Schaeffer Center | Compared a decade of Medicare spending on patients with and without dementia across 8 states | Stata, Excel |
+| [Poverty to Gang Involvement](policy-analysis/gang-trauma-policy) | USC Suzanne Dworak-Peck School of Social Work (SOWK 350) | Led a three-level policy analysis with cost-benefit estimates for LA County youth | Policy analysis, cost-benefit analysis |
+| [Lee Andrews Group](professional-experience/lee-andrews-group) | Strategic communications firm | Built a project tracker and analytics reporting for 50+ RFP proposals | Airtable, Google Gemini, Google Analytics |
 
 ---
 
-[Urban Resilience Index — Baldwin Hills & Urban Watersheds Conservancy](research/urban-resilience-index)
-**USC Public Exchange**
+## Featured projects
 
-> "The Conservancy had just expanded from 2 to 70 square miles and gained access to $700M in Prop 4 funding, but needed a better tool to know *where* to spend it."
+### Urban Resilience Index: Baldwin Hills & Urban Watersheds Conservancy
+*USC Public Exchange · [Project folder](research/urban-resilience-index)*
 
-**What I did:**
-Evaluated the URI's five resilience categories (Community Empowerment, Water Management, Biodiversity, Extreme Heat & Fire, Park Access) by scoring each indicator on accessibility, transparency, and comprehensiveness. Cross-compared three external GIS tools, the Nature Conservancy's Resilient Land Mapping Tool, the Connecticut Environmental Justice Mapping Tool, and the Living Infrastructure Field Kit, to identify design and data gaps.
+**The problem.** The Conservancy had grown from 2 to 70 square miles and gained access to $700M in Prop 4 funding, but needed a better tool to know where to spend it.
 
-**How I did it:**
+**What I did.** I scored each indicator in the Urban Resilience Index's five categories (Community Empowerment, Water Management, Biodiversity, Extreme Heat & Fire, Park Access) on accessibility, transparency, and comprehensiveness. I then compared it against three outside GIS tools: the Nature Conservancy's Resilient Land Mapping Tool, the Connecticut Environmental Justice Mapping Tool, and the Living Infrastructure Field Kit.
 
 | Stage | Tool | Output |
 |---|---|---|
@@ -60,144 +49,105 @@ Evaluated the URI's five resilience categories (Community Empowerment, Water Man
 | Tool comparison | Structured rubric | Side-by-side evaluation of 3 GIS platforms |
 | Reporting | Excel dashboards | Funding utilization reports for municipal and nonprofit partners |
 
-**What changed:**
-Delivered four categories of recommendations, data improvements, interface enhancements, user accessibility, and future development — to inform how the URI guides $700M in climate investment across South LA.
+**Result.** Four sets of recommendations (data improvements, interface enhancements, user accessibility, and future development) to inform how the Index guides $700M in climate investment across South LA.
 
 `ArcGIS Pro` `GIS Analysis` `Climate Equity` `Urban Resilience` `Land-Use Planning` `Policy Writing`
 
 ---
 
-[Not All Dementia Care Is Equal — USC Schaeffer Center for Health Policy & Economics](research/dementia-medicare-analysis)
-**Undergraduate Research Associate**
+### Not All Dementia Care Is Equal
+*USC Schaeffer Center for Health Policy & Economics, Undergraduate Research Associate · [Project folder](research/dementia-medicare-analysis)*
 
-> "Medicare spends roughly $10,000 more per year on patients with dementia than comparable patients without — but that gap looks completely different depending on which state you're in."
+**The question.** Medicare spends roughly $10,000 more per year on patients with dementia than on comparable patients without, but the gap looks very different depending on the state.
 
-**What I did:**
-Analyzed a decade of Medicare Fee-for-Service claims data (2011–2021) across 8 states and 9 service categories to compare per-capita spending patterns between patients with and without dementia. States were selected to represent demographic and policy diversity, from high-spending progressive states (CA, NY, IL) to rural, resource-constrained ones (MS, GA).
-
-**How I did it:**
+**What I did.** I analyzed Medicare Fee-for-Service claims from 2011 to 2021 across 8 states and 9 service categories. The states were chosen for demographic and policy range, from high-spending states (CA, NY, IL) to rural, resource-constrained ones (MS, GA).
 
 | Stage | Tool | Output |
 |---|---|---|
-| Data cleaning | Stata | Structured Medicare claims across 8 states, controlled for age, sex, race |
-| Analysis | Stata + Excel pivot tables | Per-capita spending by state, year, and dementia status |
-| Visualization | Stacked bar charts | State-level spending trends, 2011 vs 2021 |
-| Presentation | Research poster + slides | Presented findings to 30+ Schaeffer Center associates |
+| Data cleaning | Stata | Structured claims for 8 states, controlled for age, sex, race |
+| Analysis | Stata, Excel pivot tables | Per-capita spending by state, year, and dementia status |
+| Visualization | Stacked bar charts | State-level spending trends, 2011 vs. 2021 |
+| Presentation | Research poster and slides | Findings presented to 30+ Schaeffer Center associates |
 
-**Key findings:**
-- Mississippi's dementia spending gap narrowed from ~$11K to ~$4.5K; New York's widened to ~$11K by 2021
-- Inpatient and SNF costs dominated in both years, but Carrier and Part D spending grew across most states by 2021
-- CA and NY spent 15–35% more on average, with some states approaching 50% differences
+**Key findings**
+- Mississippi's dementia spending gap narrowed from about $11K to $4.5K, while New York's widened to about $11K by 2021.
+- Inpatient and skilled nursing costs dominated in both years, while Carrier and Part D spending grew in most states by 2021.
+- CA and NY spent 15 to 35% more on average, and some states differed by nearly 50%.
 
 `Stata` `Excel` `Medicare Claims Analysis` `Health Policy` `Data Visualization` `Quantitative Research`
 
 ---
 
-[From Poverty to Gang Involvement — USC Suzanne Dworak-Peck School of Social Work](policy-analysis/gang-trauma-policy)
-**SOWK 350**
+### From Poverty to Gang Involvement
+*USC Suzanne Dworak-Peck School of Social Work, SOWK 350 · [Project folder](policy-analysis/gang-trauma-policy)*
 
-> "LA County child poverty rates reach 68% in some neighborhoods — and the path from poverty to gang affiliation runs through systemic trauma, not individual failure."
+**The argument.** In some LA County neighborhoods child poverty reaches 68%, and the path from poverty to gang affiliation runs through systemic trauma, not individual failure.
 
-**What I did:**
-Led a policy analysis examining how historic structural inequalities (redlining, mass incarceration, disinvestment) create intergenerational trauma, institutional distrust, and ultimately gang vulnerability among LA County youth. Developed three-tiered policy recommendations - micro, mezzo, and macro — with a full cost-benefit analysis.
+Historic structural inequalities → intergenerational trauma → institutional distrust → gang vulnerability
 
-**The argument:**
-Historic Structural Inequalities → Intergenerational Trauma → Institutional Distrust → Gang Vulnerability
+**What I did.** I led a policy analysis of how redlining, mass incarceration, and disinvestment create that pathway for LA County youth, with recommendations at three levels and a full cost-benefit analysis.
 
-**Recommendations included:**
-
-| Level | Recommendation | Est. Cost |
+| Level | Recommendation | Estimated cost |
 |---|---|---|
 | Micro | Trauma-informed family therapy in all LAHSA family shelters | Included in hub budget |
-| Mezzo | Family Resilience Hubs co-locating GRYD, DMH, YDD services | ~$800K per hub/year |
-| Macro | Countywide policy reform — multi-year contracts, cross-agency coordination | Policy-level |
+| Mezzo | Family Resilience Hubs co-locating GRYD, DMH, and YDD services | About $800K per hub per year |
+| Macro | Countywide reform: multi-year contracts and cross-agency coordination | Policy-level |
 
-**Why it matters:**
-Diverting one youth from incarceration saves ~$300K/year. Higher school completion increases lifetime earnings by $630K–$900K. Trauma-informed care reduces ER and hospitalization use by 30–50%.
+**Why it matters.** Diverting one youth from incarceration saves about $300K per year. Higher school completion raises lifetime earnings by $630K to $900K. Trauma-informed care reduces ER and hospital use by 30 to 50%.
 
 `Policy Analysis` `Social Justice Research` `Cost-Benefit Analysis` `Community Violence Intervention` `Program Evaluation`
 
-## Professional Experience
-
 ---
 
-### [Lee Andrews Group](professional-experience/lee-andrews-group)
-**Strategic Communications Intern** 
+## Professional experience
 
-> "A public affairs firm managing 50+ RFP proposals across multiple LA County clients had no centralized system — work lived in emails, scattered docs, and individual memory."
+### Lee Andrews Group
+**Strategic Communications Intern** · [Details](professional-experience/lee-andrews-group)
 
-**Organize → Produce → Report**
+A public affairs firm managing 50+ RFP proposals for LA County clients kept its work in emails, scattered documents, and individual memory. I built the system that replaced that.
 
-| Stage | Tool | What it did |
-|---|---|---|
-| Organize | Airtable | Built a centralized project tracker to standardize workflows and eliminate information silos across client work |
-| Produce | Google Gemini | Streamlined coordination and drafting across 50+ client RFP proposals |
-| Report | Google Analytics | Translated LA Metro program performance into weekly analytics reports for Metro Joint Development and CVI programs |
+- **Organize:** built a centralized Airtable project tracker to standardize workflows across client work.
+- **Produce:** used Google Gemini to speed up coordination and drafting across 50+ RFP proposals.
+- **Report:** turned LA Metro program performance into weekly Google Analytics reports for Metro Joint Development and CVI programs.
 
-**Result:** 90% improvement in operational efficiency through automated tracking and real-time data visibility across client portfolios.
-
-`Airtable` `Google Analytics` `Workflow Automation` `Stakeholder Coordination`
-
----
+**Result:** 90% improvement in operational efficiency through automated tracking and real-time visibility across client portfolios.
 
 ### USC Schaeffer Center for Health Policy & Economics
-**Undergraduate Research Associate** 
+**Undergraduate Research Associate**
 
-> "What does Medicare actually spend on dementia patients, and how does it differ by state and service type? The data existed but needed to be structured, cleaned, and visualized before it could answer anything."
-
-**Clean → Analyze → Present**
-
-| Stage | Tool | What it did |
-|---|---|---|
-| Clean | Stata | Cleaned and structured Medicare claims across 8 states and 9 service categories (2011–2021) |
-| Analyze | Excel pivot tables | Built per-capita spending comparisons between dementia and non-dementia cost patterns by state |
-| Present | Stacked bar charts + research poster | Surfaced state-level trends for 30+ Schaeffer Center associates |
-
-**Result:** Findings contributed to nationally recognized dementia cost research; presented at the USC Schaeffer Center.
-
-`Stata` `Excel` `Data Visualization` `Medicare Claims Analysis`
-
----
+Cleaned and structured Medicare claims across 8 states and 9 service categories (2011 to 2021) in Stata, built per-capita spending comparisons in Excel, and presented the findings to 30+ Schaeffer Center associates. The work contributed to nationally recognized dementia cost research. See the [full project](research/dementia-medicare-analysis).
 
 ### USC Student Basic Needs Office
-**Data Strategy Lead** 
+**Data Strategy Lead**
 
-> "Five student service programs were tracking utilization differently, or not at all. Leadership had no consistent view into what was being used, what was running low, or where to redirect resources."
-
-**Diagnose → Standardize → Report**
-
-| Stage | Tool | What it did |
-|---|---|---|
-| Diagnose | Operational audit | Pulled weekly purchase receipts across food pantry stations to map spending trends and inventory gaps |
-| Standardize | Excel dashboard | Built a tracking system to standardize weekly data collection across 5+ programs |
-| Report | Utilization reports | Delivered transparent, recurring reports to senior leadership to guide capital allocation |
-
-**Result:** Closed a critical reporting gap across 5+ programs; realigned spending to match actual student demand.
-
-`Excel` `Operational Audit` `Resource Allocation` `Reporting Systems`
-
----
+Five student service programs were tracking use differently, or not at all, so leadership could not see what was being used or where to move resources. I audited weekly food pantry purchase receipts, built an Excel dashboard to standardize weekly data across 5+ programs, and delivered recurring reports to senior leadership. The reports closed the reporting gap and moved spending toward actual student demand.
 
 ### USC Public Exchange
-**Project Analyst, GIS & Climate Resilience** 
+**Project Analyst, GIS & Climate Resilience**
 
-> "$700M in Prop 4 climate funding was coming to California — but without a way to systematically evaluate where it was most needed, land-use decisions risked missing the highest-vulnerability communities."
+Layered datasets across five resilience categories in ArcGIS Pro to score high-vulnerability zones, compared three GIS tools with a scoring rubric, and turned the results into Excel funding utilization reports for municipal and nonprofit partners. See the [full project](research/urban-resilience-index).
 
-**Map → Evaluate → Deliver**
+### LA Voice
+**Community Organizing Lead** · Aug 2022 to Jul 2024
 
-| Stage | Tool | What it did |
-|---|---|---|
-| Map | ArcGIS Pro | Layered datasets across 5 resilience categories — accessibility, transparency, comprehensiveness — to score high-vulnerability zones |
-| Evaluate | Scoring rubric | Cross-compared 3 GIS tools side-by-side across climate, equity, and biodiversity indicators |
-| Deliver | Excel dashboards | Synthesized ArcGIS outputs into funding utilization reports for municipal and nonprofit partners |
-
-**Result:** Recommendations informed infrastructure planning and interface improvements to the Urban Resilience Index tied to $700M in Prop 4 funding.
-
-`ArcGIS Pro` `Excel` `Climate Equity` `Land-Use Planning` 
+Led community engagement for the Home Is Sacred campaign on housing and tenant rights in East Los Angeles and Boyle Heights.
 
 ---
 
-## Connect With Me
+## Leadership
 
-- LinkedIn: www.linkedin.com/in/guillermo-castañeda-00690b2b0
-- Email: gmc70251@usc.edu
+- **Advanced Degree Consulting Club (USC):** incoming Vice President.
+
+---
+
+## Skills
+
+**Analysis and GIS:** Stata · ArcGIS Pro · Excel (pivot tables, dashboards) · cost-benefit analysis · program evaluation
+**Workflow and reporting:** Airtable · Google Analytics · Google Gemini
+**Policy and communications:** policy writing · stakeholder coordination · community engagement
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-casta%C3%B1eda-00690b2b0) · [gmc70251@usc.edu](mailto:gmc70251@usc.edu)
